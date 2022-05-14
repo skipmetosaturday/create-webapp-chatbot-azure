@@ -1,0 +1,1 @@
+az webapp up --location eastus --name chatbotvj --resource-group chatbotvj --plan chatbotvj --html
